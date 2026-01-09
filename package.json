@@ -1,6 +1,6 @@
 {
   "name": "@maxmusin/core-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Core SDK for betting platform - API client, auth, and utilities",
   "type": "module",
   "main": "./dist/index.js",
